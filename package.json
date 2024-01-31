@@ -11,3 +11,7 @@
     "node": "20.11.0"
   }
 }
+"repository": {
+  "type": "git",
+  "url": "https://https://github.com/MariyamFazal/App.git"
+}
